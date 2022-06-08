@@ -3,3 +3,4 @@ EPC's Official Site
 
 ## The Team
 - Anibal Sanic
+- Melannie Ly
