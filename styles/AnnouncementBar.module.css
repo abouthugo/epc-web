@@ -1,0 +1,11 @@
+.outer_box {
+    background-color: rgba(15, 23, 43, .3);
+    border-radius: 8px;
+    width: 308px;
+    color: white;
+    text-align: center;
+    font-family: Arial;
+}
+
+
+
