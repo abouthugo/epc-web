@@ -3,6 +3,8 @@ import Head from "next/head";
 import Image from "next/image";
 import Sample from "../components/Sample";
 import styles from "../styles/Home.module.css";
+import AnnouncementBar from "../components/AnnouncementBar";
+import Button from "../components/Button";
 
 const Home: NextPage = () => {
   return (
@@ -17,6 +19,8 @@ const Home: NextPage = () => {
       </Head>
       <main>
         <Sample />
+        <AnnouncementBar />
+        <Button />
       </main>
     </div>
   );
